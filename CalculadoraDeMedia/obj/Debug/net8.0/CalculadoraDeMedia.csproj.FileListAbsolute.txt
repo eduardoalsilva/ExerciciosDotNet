@@ -1,0 +1,14 @@
+/home/acer/Documentos/github/ExerciciosDotNet/CalculadoraDeMedia/bin/Debug/net8.0/CalculadoraDeMedia
+/home/acer/Documentos/github/ExerciciosDotNet/CalculadoraDeMedia/bin/Debug/net8.0/CalculadoraDeMedia.deps.json
+/home/acer/Documentos/github/ExerciciosDotNet/CalculadoraDeMedia/bin/Debug/net8.0/CalculadoraDeMedia.runtimeconfig.json
+/home/acer/Documentos/github/ExerciciosDotNet/CalculadoraDeMedia/bin/Debug/net8.0/CalculadoraDeMedia.dll
+/home/acer/Documentos/github/ExerciciosDotNet/CalculadoraDeMedia/bin/Debug/net8.0/CalculadoraDeMedia.pdb
+/home/acer/Documentos/github/ExerciciosDotNet/CalculadoraDeMedia/obj/Debug/net8.0/CalculadoraDeMedia.GeneratedMSBuildEditorConfig.editorconfig
+/home/acer/Documentos/github/ExerciciosDotNet/CalculadoraDeMedia/obj/Debug/net8.0/CalculadoraDeMedia.AssemblyInfoInputs.cache
+/home/acer/Documentos/github/ExerciciosDotNet/CalculadoraDeMedia/obj/Debug/net8.0/CalculadoraDeMedia.AssemblyInfo.cs
+/home/acer/Documentos/github/ExerciciosDotNet/CalculadoraDeMedia/obj/Debug/net8.0/CalculadoraDeMedia.csproj.CoreCompileInputs.cache
+/home/acer/Documentos/github/ExerciciosDotNet/CalculadoraDeMedia/obj/Debug/net8.0/CalculadoraDeMedia.dll
+/home/acer/Documentos/github/ExerciciosDotNet/CalculadoraDeMedia/obj/Debug/net8.0/refint/CalculadoraDeMedia.dll
+/home/acer/Documentos/github/ExerciciosDotNet/CalculadoraDeMedia/obj/Debug/net8.0/CalculadoraDeMedia.pdb
+/home/acer/Documentos/github/ExerciciosDotNet/CalculadoraDeMedia/obj/Debug/net8.0/CalculadoraDeMedia.genruntimeconfig.cache
+/home/acer/Documentos/github/ExerciciosDotNet/CalculadoraDeMedia/obj/Debug/net8.0/ref/CalculadoraDeMedia.dll
